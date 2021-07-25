@@ -20,7 +20,7 @@
 
 <div align="justified">
    
-**This is basically a group project for Project-1 in UEMK. I have contributed some parts. **
+ **This is basically a group project for Project-1 in UEMK. I have contributed some parts. **
    
 </div>
 
